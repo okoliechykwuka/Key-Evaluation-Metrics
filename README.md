@@ -154,13 +154,13 @@ We can break *Accuracy* to
 
 $equ\_2$
 
-Accuracy = $\frac{P(\text{correct | disease})}{P(\text{disease})}$ + $\frac{P(\text{correct | no_disease})}{P(\text{no_disease})}$
+Accuracy = $\frac{P(\text{correct | disease})}{P(\text{disease})}$ + $\frac{P(\text{correct | nodisease})}{P(\text{nodisease})}$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display:inline-block; font-size:1.5em;">&#x2191;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="display:inline-block; font-size:1.5em;">&#x2191;</span>
 
 The numerators in the above $equ\_2$ represents Sensitivity(true positive rate) and Specificity(true negative rate), and the first denominator represents *Prevalence*.
 
-Prevalence is simple the probability of a patient having a disease in a population `${P(\text{disease})}$, while  ${P(\text{no\_disease})}$` represents probability of a patient not have a disease.
+Prevalence is simple the probability of a patient having a disease in a population ${P(\text{disease})}$, while  ${P(\text{nodisease})}` represents probability of a patient not have a disease.
 
 We can rewrite $equ\_2$ as
 
