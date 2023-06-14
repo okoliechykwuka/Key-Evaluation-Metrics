@@ -154,7 +154,7 @@ We can break *Accuracy* to
 
 $equ\_2$
 
-Accuracy = $\frac{P(\text{correct | disease})}{P(\text{disease})}$ + $\frac{P(\text{correct | no\_disease})}{P(\text{no\_disease})}$
+Accuracy = $\frac{P(\text{correct | disease})}{P(\text{disease})}$ + $\frac{P(\text{correct | no_disease})}{P(\text{no_disease})}$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display:inline-block; font-size:1.5em;">&#x2191;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="display:inline-block; font-size:1.5em;">&#x2191;</span>
 
