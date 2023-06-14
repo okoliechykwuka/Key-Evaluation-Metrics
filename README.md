@@ -160,7 +160,7 @@ Accuracy = $\frac{P(\text{correct | disease})}{P(\text{disease})}$ + $\frac{P(\t
 
 The numerators in the above $equ\_2$ represents Sensitivity(true positive rate) and Specificity(true negative rate), and the first denominator represents *Prevalence*.
 
-Prevalence is simple the probability of a patient having a disease in a population ${P(\text{disease})}$, while  ${P(\text{nodisease})}` represents probability of a patient not have a disease.
+Prevalence is simple the probability of a patient having a disease in a population ${P(\text{disease})}$, while  ${P(\text{nodisease})}$ represents probability of a patient not have a disease.
 
 We can rewrite $equ\_2$ as
 
